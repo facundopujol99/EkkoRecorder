@@ -1,0 +1,17 @@
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\Ekko.exe.config
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\Ekko.exe
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\Ekko.pdb
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\ScreenRecorderLib.dll
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\ScreenRecorderLib.xml
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\obj\x64\Debug\Ekko.csprojAssemblyReference.cache
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\obj\x64\Debug\Ekko.Properties.Resources.resources
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\obj\x64\Debug\Ekko.csproj.GenerateResource.cache
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\obj\x64\Debug\Ekko.csproj.CoreCompileInputs.cache
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\obj\x64\Debug\Ekko.csproj.CopyComplete
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\obj\x64\Debug\Ekko.exe
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\obj\x64\Debug\Ekko.pdb
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\obj\x64\Debug\Ekko.EkkoMain.resources
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\DirectShowLib-2005.dll
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\Splicer.dll
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\DirectShowLib.dll
+C:\Users\facun\Documents\Ekko_Project_Real\Ekko\Ekko\bin\x64\Debug\DirectShowLib.pdb
